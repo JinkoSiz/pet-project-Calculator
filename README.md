@@ -1,3 +1,3 @@
-# pet-project
+# Calculator
 
 # Здесь будет проект
